@@ -1,7 +1,10 @@
 # vtt2txt-html
 simple vtt2txt html page with js to easily paste vtt (tested with Microsoft Stream transscript) to get a converted txt of the transcript.
 
-no support is given for this simple ChatGPT-3.5 generated helper html page. I just needed a quick location to host this, while having the possible to not upload a VTT to some service. In case of issues, please direct them to the real non-human author :)
+no support is given for this simple ChatGPT-3.5 generated helper html page. I just needed a quick location to host this, while having the possible to not upload a VTT to some service. In case of issues, please direct them to the real non-human author 
+
+# use in browser
+[VTT2TXT-HTML-CONVERTER](https://tdicknet.github.io/vtt2txt-html/index.html) conversion runs locally in your browser.
 
 ### example use
 #### input:
